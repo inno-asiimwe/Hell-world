@@ -1,2 +1,3 @@
 # Hell-world
 My first code repository
+Inocent is a currently a network and systems administrator, though trained as a computer scientist at university. Developer in his leisure time ....
